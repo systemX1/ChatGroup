@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>capture.png</file>
+        <file>cloud.png</file>
+        <file>clouddownload.png</file>
+        <file>cloudupload.png</file>
+        <file>emoji.png</file>
+        <file>huajibig.png</file>
+        <file>huaji.png</file>
+        <file>login.png</file>
+        <file>logout.png</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>
